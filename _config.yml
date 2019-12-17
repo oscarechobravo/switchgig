@@ -5,11 +5,11 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Switch-Gig
-title: Designing just work in the gig economy
+title: Swithc-gig; Designing just work in the gig economy
 description: >
   Designing just work in the gig economy
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+url: https://inspiring-heisenberg-694b44.netlify.com
+twitter_username: bates_oliver
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
