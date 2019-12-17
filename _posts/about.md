@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-date: 2023-01-01
+date: 2019-01-01
 description:
 image: /assets/images/switch_gig_intro-1.jpg
 author: Oliver Bates
